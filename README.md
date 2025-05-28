@@ -1,3 +1,4 @@
 # OmniSwap
-
 OmniSwap is a sophisticated cross-chain DEX aggregator that allows users to find and execute the best swap rates across multiple blockchain networks. The platform automatically identifies the most efficient trading routes, minimizing slippage and fees while maximizing returns for traders.
+OmniSwap is a groundbreaking decentralized supply chain finance platform that bridges the gap between traditional finance and blockchain technology. By leveraging smart contracts and tokenization, OmniSwap creates a transparent, efficient, and accessible financial ecosystem for all supply chain participants—from small suppliers to large enterprise buyers.
+The platform addresses critical pain points in global supply chains: payment delays, limited access to working capital, high financing costs, and lack of transparency. OmniSwap transforms invoices into liquid digital assets, allowing suppliers to access immediate funding while buyers optimize their cash flow. The protocol's cross-chain capabilities ensure that financing can flow seamlessly across different blockchain networks, maximizing liquidity and minimizing costs.
