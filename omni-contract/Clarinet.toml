@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = true
 requirements = []
+[contracts.chain-registry]
+path = "contracts/chain-registry.clar"
+depends_on = []
+
 [contracts.cross-chain]
 path = "contracts/cross-chain.clar"
 depends_on = []
