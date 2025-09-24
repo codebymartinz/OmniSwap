@@ -16,6 +16,10 @@ depends_on = []
 path = "contracts/dynamic-discounting.clar"
 depends_on = []
 
+[contracts.invoice-marketplacr]
+path = "contracts/invoice-marketplacr.clar"
+depends_on = []
+
 [contracts.rbac]
 path = "contracts/rbac.clar"
 depends_on = []
